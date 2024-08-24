@@ -2,20 +2,23 @@
 ## By HyperMC-Team
 起源都是因为揭阳某漕🐕王
 
-旧版本泄露 看看到底是什么版本的😊
+突然就变成旧版本泄露了？看看到底是什么版本的😊
+
 你的lib里怎么有你的客户端资源文件？？？我已经帮你删了
 
 ## About
-u can copy these shift codes to your mcp
+你可以打滑里面的代码到你的客户端里
+
+你还可以借刀HyperMC，前提是个性签名加上“我是泠雨微光”
 
 thanks help for Qianxia
 
 ## Others
 不是我们干的
-因为混淆力度比较轻
 
-好的混淆器 坏的使用者
-可以在 [https://skidonion.tech] 购买
+因为用不明白幻影盾导致的事故
+
+同款在 [https://skidonion.tech] 购买 不是商单
 
 
 陈琦元的一生
